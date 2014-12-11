@@ -1,6 +1,6 @@
 {
   "name": "xkcdify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Module for performing all word substitutions that have been mentioned in xkcd",
   "main": "index.js",
   "scripts": {
