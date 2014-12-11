@@ -1,0 +1,28 @@
+{
+  "name": "xkcdify",
+  "version": "0.0.0",
+  "description": "Module for performing all word substitutions that have been mentioned in xkcd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuartpb/xkcdify.git"
+  },
+  "keywords": [
+    "xkcd",
+    "word",
+    "substitution",
+    "replacement"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/xkcdify/issues"
+  },
+  "homepage": "https://github.com/stuartpb/xkcdify",
+  "dependencies": {
+    "leopardize": "^0.1.0"
+  }
+}
